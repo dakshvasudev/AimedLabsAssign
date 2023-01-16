@@ -29,7 +29,6 @@ class _HomePageState extends State<HomePage> {
                   Positioned(
                     top: 25,
                     left: 16,
-                    right: 250,
                     child: Container(
                       color: Colors.grey,
                       height: 30,
@@ -65,14 +64,10 @@ class _HomePageState extends State<HomePage> {
                       color: Colors.red.shade100,
                     ),
                   ),
-                  Positioned(
-                    left: 150,
-                    right: 150,
-                    child: Container(
-                      color: Colors.grey,
-                      height: 30,
-                      width: 300,
-                    ),
+                  Container(
+                    color: Colors.grey,
+                    height: 30,
+                    width: 300,
                   ),
                   Positioned(
                     top: 100,
