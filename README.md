@@ -1,16 +1,5 @@
 # aimed_labs_internship_assignment
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230116_002944](https://user-images.githubusercontent.com/91746245/212676085-ddc9815b-10cd-4805-b2a6-2cbe7479793e.png)
+![Screenshot_20230116_003025](https://user-images.githubusercontent.com/91746245/212676097-49c5903c-d109-4404-bf61-7dfd68616814.png)
+![Screenshot_20230116_003044](https://user-images.githubusercontent.com/91746245/212676104-b8d54caa-6391-455e-898b-0ee9c2419afa.png)
